@@ -1,6 +1,6 @@
 # Fullstack Application (Node.js/Express.js + React.js)
 
-This project is a fullstack application built using Node.js and Express.js for the backend, and React.js for the frontend. Clerk is used for user authentication.
+I have craeted a project which is a fullstack application built using Node.js and Express.js for the backend, and React.js for the frontend. Clerk is used for user authentication.
 
 ## Table of Contents
 
