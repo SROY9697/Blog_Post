@@ -16,36 +16,6 @@ This project is a fullstack application built using Node.js and Express.js for t
 - [Contributing](#contributing)
 - [License](#license)
 
-## Project Structure
-my-fullstack-app/
-├── backend/
-│   ├── src/
-│   │   ├── controllers/
-│   │   ├── routes/
-│   │   ├── models/
-│   │   ├── middleware/
-│   │   ├── app.js
-│   │   └── server.js
-│   ├── package.json
-│   ├── package-lock.json
-│   └── .env.example
-├── client/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── hooks/
-│   │   ├── utils/
-│   │   ├── App.js
-│   │   └── index.js
-│   ├── public/
-│   ├── package.json
-│   ├── package-lock.json
-│   └── .env.example
-└── .gitignore
-└── README.md
-
-
-
 
 ## Getting Started
 
